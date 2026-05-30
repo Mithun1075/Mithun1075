@@ -28,7 +28,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithungugan007@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://mithun-portfolio-seven.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mithun1075)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mithun1075&label=Profile+Views&color=70a5fd&style=for-the-badge)](https://github.com/Mithun1075)
 
 </div>
 
