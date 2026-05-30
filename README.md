@@ -144,64 +144,6 @@ class MithunR:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ████████████████████████████████████████████████████████████████████████████████ -->
-<!--                          GITHUB STATS                                           -->
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
-
-<h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28" />
-  &nbsp;GitHub Stats
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithun1075&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12&rank_icon=github" height="185" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun1075&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=12" height="185" />
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
-<!--                          STREAK STATS                                           -->
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mithun1075&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" width="60%" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
-<!--                          ACTIVITY GRAPH                                         -->
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
-
-<h2>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28" />
-  &nbsp;Contribution Activity
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun1075&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&area_color=70a5fd" width="98%" />
-</div>
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
-<!--                          TROPHY WALL                                            -->
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
-
-<h2>🏆 Trophy Wall</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mithun1075&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
 <!--                          WORK EXPERIENCE                                        -->
 <!-- ████████████████████████████████████████████████████████████████████████████████ -->
 
@@ -332,10 +274,9 @@ class MithunR:
 ║                    🌱  GROWTH ROADMAP                              ║
 ╠════════════════════════════════════════════════════════════════════╣
 ║  🧱 Django REST Framework  →  APIView · Serializers · JWT · Sets  ║
-║  🐳 Docker                 →  Compose · Images · Containerization ║
-║  ⚛️  Advanced React         →  Hooks · Context · React Query       ║
 ║  ☁️  Cloud Deployment       →  AWS EC2 · S3 · Vercel · Env Config  ║
-║  🤖 Machine Learning       →  Scikit-learn · Image Classification ║
+║  🔌 API Development        →  REST · Auth · Versioning · Testing  ║
+║  🧠 Artificial Intelligence →  LLMs · Prompt Eng · AI Integration ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
