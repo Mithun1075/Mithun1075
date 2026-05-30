@@ -46,12 +46,8 @@ class MithunR:
 
         self.currently_learning = [
             "Django REST Framework",
-            "Docker & Containerization",
-            "Advanced React Patterns",
             "Cloud Deployment (AWS / Vercel)"
         ]
-
-        self.fun_fact = "I once built an ML-powered waste classifier for the planet 🌍♻️"
 
     def motto(self):
         return "Code with purpose. Build with passion. Ship with pride. 🚀"
@@ -200,8 +196,6 @@ print(me.motto())
 
 ```
 🧱 Django REST Framework  →  APIView · Serializers · JWT Auth · ViewSets
-🐳 Docker                 →  Containerization · Docker Compose · Image Builds
-⚛️  Advanced React         →  Hooks · Context API · React Query · State Management
 ☁️  Cloud Deployment       →  Vercel · AWS EC2 · S3 · Environment Config
 🤖 Machine Learning       →  Scikit-learn · Model Integration · Image Classification
 ```
