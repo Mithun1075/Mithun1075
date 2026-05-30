@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mithun1075&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   <a href="https://linkedin.com/in/mithun1075">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
