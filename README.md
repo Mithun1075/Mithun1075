@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&height=60&lines=Hey+there%21+I%27m+Mithun+R+%F0%9F%91%8B;Python+Full+Stack+Developer+%F0%9F%90%8D;Django+%7C+React+%7C+MySQL+Craftsman+%E2%9C%A8;Building+real-world+apps+that+matter+%F0%9F%8C%8D;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&height=60&lines=Hey+there%21+I%27m+Mithun+R+%F0%9F%91%8B;Python+Full+Stack+Developer+%F0%9F%90%8D;Python+%7C+Django+%7C+MySQL+Craftsman+%E2%9C%A8;Building+real-world+apps+that+matter+%F0%9F%8C%8D;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -50,7 +50,6 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="margin-left: 20px;" />
 
 ```python
-#!/usr/bin/env python3
 # ╔══════════════════════════════════════╗
 # ║        MITHUN R — Developer         ║
 # ╚══════════════════════════════════════╝
@@ -65,30 +64,19 @@ class MithunR:
         self.portfolio  = "mithun-portfolio-seven.vercel.app"
 
         self.stack = {
-            "backend"  : ["Python", "Django", "Flask", "REST APIs"],
-            "frontend" : ["React.js", "HTML5", "CSS3", "JavaScript"],
+            "backend"  : ["Python", "Django", "REST APIs"],
+            "frontend" : ["HTML5", "CSS3", "JavaScript"],
             "database" : ["MySQL", "SQLite"],
             "tools"    : ["Git", "GitHub", "VS Code", "PyCharm", "Linux"],
         }
 
         self.learning = [
             "Django REST Framework 🧱",
-            "Docker & Containerization 🐳",
             "Cloud Deployment — AWS / Vercel ☁️",
-            "Advanced React Patterns ⚛️",
         ]
-
-        self.fun_fact = (
-            "I built an ML-powered waste classifier "
-            "to help save the planet ♻️🌍"
-        )
 
     def motto(self) -> str:
         return "💡 Code with purpose. Build with passion. Ship with pride. 🚀"
-
-me = MithunR()
-print(me.motto())
-# Output: 💡 Code with purpose. Build with passion. Ship with pride. 🚀
 ```
 
 <br clear="right"/>
