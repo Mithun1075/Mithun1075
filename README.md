@@ -257,30 +257,6 @@ class MithunR:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
-<!--                          CURRENTLY LEARNING                                     -->
-<!-- ████████████████████████████████████████████████████████████████████████████████ -->
-
-<h2>
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="28" />
-  &nbsp;Currently Learning
-</h2>
-
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                    🌱  GROWTH ROADMAP                              ║
-╠════════════════════════════════════════════════════════════════════╣
-║  🧱 Django REST Framework  →  APIView · Serializers · JWT · Sets  ║
-║  ☁️  Cloud Deployment       →  AWS EC2 · S3 · Vercel · Env Config  ║
-║  🔌 API Development        →  REST · Auth · Versioning · Testing  ║
-║  🧠 Artificial Intelligence →  LLMs · Prompt Eng · AI Integration ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
 <!-- ████████████████████████████████████████████████████████████████████████████████ -->
 <!--                          SOFT SKILLS                                            -->
 <!-- ████████████████████████████████████████████████████████████████████████████████ -->
