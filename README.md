@@ -122,7 +122,7 @@ motto:      "Code with purpose. Build with passion. Ship with pride."
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithun1075&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com/?user=Mithun1075&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 <br/>
