@@ -106,7 +106,7 @@ motto:      "Code with purpose. Build with passion. Ship with pride."
 |---|---|---|
 | BCA — Bachelor of Computer Applications | St. Joseph's College (Arts & Science), Chennai | 2025 |
 | HSC — Higher Secondary Certificate | CSI St. Thomas Higher Secondary School | 2022 |
-| SSLC — Secondary School Certificate | CSI St. Thomas Higher Secondary School | 2019 |
+| SSLC — Secondary School Certificate | CSI St. Thomas Higher Secondary School | 2020 |
 
 <br/>
 
