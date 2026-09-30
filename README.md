@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Mithun+R;Python+Full+Stack+Developer;Django+%2B+MySQL+%2B+REST+APIs;Building+real-world+apps%2C+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Mithun+R;Python+Full+Stack+Developer;Django+%2B+React+%2B+AI+Integrations;Real-time+apps%2C+AR+on+the+web%2C+LLM+tooling;Building+real-world+apps%2C+one+commit+at+a+time." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -32,8 +32,8 @@ name:       Mithun R
 based_in:   Chennai, Tamil Nadu, India
 education:  BCA — St. Joseph's College (2025)
 role:       Python Full Stack Developer
-focus:      Django · REST APIs · MySQL
-currently:  Learning Django REST Framework & cloud deployment (AWS / Vercel)
+focus:      Django · REST APIs · MySQL · AI integrations (Gemini, MCP)
+currently:  Building AI-powered & real-time apps · Learning Django REST Framework & cloud deployment (AWS / Vercel)
 motto:      "Code with purpose. Build with passion. Ship with pride."
 ```
 
@@ -46,7 +46,7 @@ motto:      "Code with purpose. Build with passion. Ship with pride."
 ### <code>~/mithun-r $</code> ls skills/
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,mysql,sqlite,git,github,vscode,pycharm,vercel,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,vite,js,threejs,html,css,bootstrap,mysql,sqlite,git,github,vscode,pycharm,vercel,linux&theme=dark" />
 </div>
 
 <br/>
@@ -75,6 +75,10 @@ motto:      "Code with purpose. Build with passion. Ship with pride."
 
 | Project | Stack | Highlights |
 |---|---|---|
+| 📧 **[Smart Email Analyzer](https://github.com/Mithun1075/smart-email-analyzer)** | Python · Django 6.0 · Google Gemini AI (3.5 Flash Lite) · Model Context Protocol (MCP) · Gmail API | Direct Gmail API integration via MCP · natural language inbox queries · attachment parsing · automated executive summaries with smart drafting |
+| 🎙️ **[VibeLink](https://github.com/Mithun1075/VibeLink)** | Python · Django · Django Channels · WebSockets · WebRTC · React.js / Vite · Gemini API | Real-time peer-to-peer technical mock interview platform · live video · role-based matchmaking · AI-generated interview questions & sample answers |
+| 📐 **[MeasureXR](https://github.com/Mithun1075/MeasureXR)** | WebXR Device API · Three.js · JavaScript (ES6+) · Augmented Reality | Browser-based AR spatial measurement tool · hit-testing & plane detection · real-time distances, polygon areas, heights & 3D bounding box dimensioning |
+| 🎓 **[Online Aptitude Assessment System](https://github.com/Mithun1075/Online_Aptitude_Assessment)** | Python · Django 5.2 · Bootstrap 5.3 · MySQL / SQLite | Automated recruitment testing portal · randomized question sets across 4 categories · countdown-locked sessions · automated grading · recruiter analytics |
 | 🗑️ **[Automated Waste Classification System](https://github.com/Mithun1075)** | Python · Django · ML · MySQL · JS | ML-based waste classification · recycling suggestions · admin dashboard |
 | 🚌 **[Online Bus Pass System v2](https://github.com/Mithun1075)** | Python · Django · MySQL · SMTP · OTP | OTP + session auth · role-based access · e-pass generation & renewal |
 | 🎫 **[Online Bus Pass System v1](https://github.com/Mithun1075)** | Python · Flask · SQLite · HTML/CSS/JS | Paperless lifecycle management · session login · PDF e-pass download |
